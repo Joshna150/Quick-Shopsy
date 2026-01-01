@@ -1,2 +1,2 @@
 Quick-Shopsy
-Quick Shopsy is a React e-commerce frontend clone with product pages for Kids, Men, Electronics, and Trending products. Features add-to-cart per page, dark mode, responsive design, and smooth navigation.
+Quick Shopsy is a React e-commerce frontend clone featuring product pages for Kids, Men, Electronics, and Trending items. It includes per-page add-to-cart functionality, dark mode, responsive design, and smooth navigation for an enhanced shopping experience.
